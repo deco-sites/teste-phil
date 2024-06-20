@@ -1,1 +1,15 @@
-{"__resolveType":"site/sections/Header.tsx","navigation":{"links":[],"buttons":[]}}
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [
+      {
+        "label": "Maquininhas",
+        "url": "#"
+      }
+    ],
+    "buttons": []
+  },
+  "logo": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10881/aed80cd8-d55e-4d1e-a297-72541693fefe"
+  }
+}
