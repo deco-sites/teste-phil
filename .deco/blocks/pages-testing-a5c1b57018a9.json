@@ -3,16 +3,23 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "Preview /sections/Header.tsx"
+      "__resolveType": "Header"
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
       "title": "<p>Marcel Profissional</p>",
       "cta": [
         {
-          "id": "aaaa",
+          "id": "Gabriel",
           "href": "#",
-          "text": "Teste"
+          "text": "Gabriel",
+          "outline": false
+        },
+        {
+          "id": "profissional",
+          "href": "#",
+          "text": "Profissional",
+          "outline": true
         }
       ],
       "description": "Esse cara é profissional, ele faz front legal",
@@ -20,22 +27,7 @@
       "placement": "left"
     },
     {
-      "__resolveType": "site/sections/Logos.tsx",
-      "logos": [
-        {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10881/aed80cd8-d55e-4d1e-a297-72541693fefe"
-        },
-        {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10881/aed80cd8-d55e-4d1e-a297-72541693fefe"
-        },
-        {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10881/aed80cd8-d55e-4d1e-a297-72541693fefe"
-        },
-        {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10881/aed80cd8-d55e-4d1e-a297-72541693fefe"
-        }
-      ],
-      "title": "Teste"
+      "__resolveType": "site/sections/Logos.tsx"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx"
