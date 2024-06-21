@@ -108,5 +108,9 @@
   "/.deco/blocks/Neutral%20Copy.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Theme/Theme.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FLogos.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Logos.tsx"
   }
 }

@@ -20,7 +20,22 @@
       "placement": "left"
     },
     {
-      "__resolveType": "site/sections/Logos.tsx"
+      "__resolveType": "site/sections/Logos.tsx",
+      "logos": [
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10881/aed80cd8-d55e-4d1e-a297-72541693fefe"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10881/aed80cd8-d55e-4d1e-a297-72541693fefe"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10881/aed80cd8-d55e-4d1e-a297-72541693fefe"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10881/aed80cd8-d55e-4d1e-a297-72541693fefe"
+        }
+      ],
+      "title": "Teste"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx"
