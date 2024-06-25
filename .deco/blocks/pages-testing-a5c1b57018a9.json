@@ -3,7 +3,7 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "Header"
+      "__resolveType": "Preview /sections/Header.tsx"
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
@@ -28,6 +28,9 @@
     },
     {
       "__resolveType": "site/sections/Logos.tsx"
+    },
+    {
+      "__resolveType": "Preview /sections/Header.tsx"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx"
